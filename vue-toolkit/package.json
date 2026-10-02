@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/geoffjamieson/toolkit.git",
+    "url": "git+https://github.com/geoffjamieson/toolkit.git",
     "directory": "vue-toolkit"
   }
 }
