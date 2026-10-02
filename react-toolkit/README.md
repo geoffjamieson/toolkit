@@ -51,9 +51,9 @@ import { RotatingWords } from '@geoffjamieson/react-toolkit'
 
 Full documentation is available for each component.
 
-- [All Components](https://github.com/UnionPAC/toolkit/blob/main/react-toolkit/lib/docs/index.md)
-  - [RotatingWords](https://github.com/UnionPAC/toolkit/blob/main/react-toolkit/lib/docs/components/RotatingWords.md)
-  - [Modal](https://github.com/UnionPAC/toolkit/blob/main/react-toolkit/lib/docs/components/Modal.md)
+- [All Components](https://github.com/geoffjamieson/toolkit/blob/main/react-toolkit/lib/docs/index.md)
+  - [RotatingWords](https://github.com/geoffjamieson/toolkit/blob/main/react-toolkit/lib/docs/components/RotatingWords.md)
+  - [Modal](https://github.com/geoffjamieson/toolkit/blob/main/react-toolkit/lib/docs/components/Modal.md)
 
 ---
 

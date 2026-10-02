@@ -11,8 +11,8 @@ This monorepo contains framework-specific packages like `vue-toolkit` and `react
 
 | Package | Description | Links |
 |---------|-------------|--------|
-| [`@geoffjamieson/vue-toolkit`](https://www.npmjs.com/package/@geoffjamieson/vue-toolkit) | Reusable, unstyled Vue 3 UI components | [📦 npm](https://www.npmjs.com/package/@geoffjamieson/vue-toolkit) · [🔗 GitHub](https://github.com/UnionPAC/toolkit/tree/main/vue-toolkit) |
-| [`@geoffjamieson/react-toolkit`](https://www.npmjs.com/package/@geoffjamieson/react-toolkit) | Reusable React components and hooks | [📦 npm](https://www.npmjs.com/package/@geoffjamieson/react-toolkit) · [🔗 GitHub](https://github.com/UnionPAC/toolkit/tree/main/react-toolkit) |
+| [`@geoffjamieson/vue-toolkit`](https://www.npmjs.com/package/@geoffjamieson/vue-toolkit) | Reusable, unstyled Vue 3 UI components | [📦 npm](https://www.npmjs.com/package/@geoffjamieson/vue-toolkit) · [🔗 GitHub](https://github.com/geoffjamieson/toolkit/tree/main/vue-toolkit) |
+| [`@geoffjamieson/react-toolkit`](https://www.npmjs.com/package/@geoffjamieson/react-toolkit) | Reusable React components and hooks | [📦 npm](https://www.npmjs.com/package/@geoffjamieson/react-toolkit) · [🔗 GitHub](https://github.com/geoffjamieson/toolkit/tree/main/react-toolkit) |
 
 ---
 
