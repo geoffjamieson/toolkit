@@ -1,6 +1,6 @@
 {
   "name": "@geoffjamieson/vue-toolkit",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "private": false,
   "type": "module",
   "main": "dist/toolkit.umd.cjs",
@@ -26,7 +26,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.7",
     "tailwindcss": "^4.1.7",
-    "vue": "^3.5.13"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.2.3",
@@ -37,5 +37,10 @@
   },
   "peerDependencies": {
     "vue": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoffjamieson/toolkit.git",
+    "directory": "vue-toolkit"
   }
 }
